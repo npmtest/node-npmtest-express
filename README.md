@@ -1,6 +1,6 @@
 # npmtest-express
 
-#### test coverage for  [express (v4.15.2)](http://expressjs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-express.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express.svg)](https://travis-ci.org/npmtest/node-npmtest-express)
+#### basic test coverage for  [express (v4.15.2)](http://expressjs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-express.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express.svg)](https://travis-ci.org/npmtest/node-npmtest-express)
 
 #### Fast, unopinionated, minimalist web framework
 
